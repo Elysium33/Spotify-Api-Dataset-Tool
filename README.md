@@ -1,6 +1,9 @@
 # Spotify-Api-Data-Generator
+
+
 This is an app I've built to generate datasets that contain data about tracks/albums/playlists that are available on Spotify.
 To do this I used the Spotify API and Pandas library.The functions in the "spotify_funcs" script are used to extract data about tracks, albums or playlists.
+
 The "spotify_api" script reads a csv file that contains different album links afterwhich it concatenates each pandas dataframe created and finally it writes the dataframe to csv and a SQL database.
 
 
