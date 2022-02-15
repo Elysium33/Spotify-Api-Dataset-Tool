@@ -1,4 +1,4 @@
-# Spotify-Api-Data-Generator
+# Spotify-Api-Dataset-Tool
 
 
 This is an app I've built to generate datasets that contain data about tracks/albums/playlists that are available on Spotify.
